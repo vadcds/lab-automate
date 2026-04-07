@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID ""
-#define BLYNK_TEMPLATE_NAME ""
-#define BLYNK_AUTH_TOKEN ""
+#define BLYNK_TEMPLATE_ID "TMPL3I4iVDASx"
+#define BLYNK_TEMPLATE_NAME "home"
+#define BLYNK_AUTH_TOKEN "p2gZb_06yUV9O-ePFBn4fCY-itQJaRNl"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
